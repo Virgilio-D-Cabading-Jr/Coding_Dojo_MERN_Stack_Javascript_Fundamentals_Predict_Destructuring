@@ -80,3 +80,6 @@ console.log("2")
 console.log("\n::: Actual Output :::")
 console.log(first == second);
 console.log(first == third);
+
+console.log("\n******************************************");
+console.log("Problem 5\n");
