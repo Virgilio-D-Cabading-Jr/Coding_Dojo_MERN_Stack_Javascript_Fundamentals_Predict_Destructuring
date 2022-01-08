@@ -54,9 +54,13 @@ const { password: hashedPassword } = person;
 
 // Predict the output
 console.log("::: Predicted Output :::")
+console.log("12345");
+console.log("Syntax error: password not defined in person object")
 
 // Actual Output
 console.log("\n::: Actual Output :::")
 console.log(password);
 console.log(hashedPassword);
 
+console.log("\n******************************************");
+console.log("Problem 4\n");
