@@ -20,3 +20,5 @@ console.log("\n::: Actual Output :::");
 console.log(randomCar)
 console.log(otherRandomCar)
 
+console.log("******************************************");
+console.log("Problem 2\n");
