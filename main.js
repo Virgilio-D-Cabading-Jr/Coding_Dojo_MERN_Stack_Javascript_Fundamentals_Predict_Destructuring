@@ -31,8 +31,12 @@ const employee = {
 }
 const { name: otherName } = employee;
 //Predict the output
+console.log("::: Predicted Output :::")
+console.log("syntax error: name is not declared")
+console.log("otherwise: othername = Elon")
 
 // Actual Output
-console.log(name);
+console.log("::: Actual Output :::")
+// console.log(name);
 console.log(otherName);
 
