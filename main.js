@@ -83,3 +83,11 @@ console.log(first == third);
 
 console.log("\n******************************************");
 console.log("Problem 5\n");
+
+// Problem 5 Code:
+
+// Predict the output
+console.log("::: Predicted Output :::")
+
+// Actual Output
+console.log("\n::: Actual Output :::")
