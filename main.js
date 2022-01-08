@@ -20,7 +20,7 @@ console.log("\n::: Actual Output :::");
 console.log(randomCar)
 console.log(otherRandomCar)
 
-console.log("******************************************");
+console.log("\n******************************************");
 console.log("Problem 2\n");
 
 // Problem 2 Code
@@ -40,3 +40,5 @@ console.log("::: Actual Output :::")
 // console.log(name);
 console.log(otherName);
 
+console.log("\n******************************************");
+console.log("Problem 3\n");
