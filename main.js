@@ -36,9 +36,27 @@ console.log("syntax error: name is not declared")
 console.log("otherwise: othername = Elon")
 
 // Actual Output
-console.log("::: Actual Output :::")
+console.log("\n::: Actual Output :::")
 // console.log(name);
 console.log(otherName);
 
 console.log("\n******************************************");
 console.log("Problem 3\n");
+
+// Problem 3 Code
+const person = {
+    name: 'Phil Smith',
+    age: 47,
+    height: '6 feet'
+}
+const password = '12345';
+const { password: hashedPassword } = person;  
+
+// Predict the output
+console.log("::: Predicted Output :::")
+
+// Actual Output
+console.log("\n::: Actual Output :::")
+console.log(password);
+console.log(hashedPassword);
+
